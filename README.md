@@ -4,7 +4,6 @@ Good, to see you here! :smile:
 
 - 🔭 I’m working on Data Science and Machine Learning
 - 🌱 I’m currently learning MLOps
-- 💬 Ask me about Data Science and Machine Learning
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/frauke-albrecht-phd-90ba511a2/)
 - :woman: Pronouns: she / her / hers
 
