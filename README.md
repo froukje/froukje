@@ -3,7 +3,7 @@
 Good, to see you here! :smile:
 
 - 🔭 I’m working in Data Science and Machine Learning
-- 📣 Find more about Data Science and Machine Learning on [datamapu](datamapu.com)
+- 📣 Find more about Data Science and Machine Learning on [datamapu](www.datamapu.com)
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/frauke-albrecht-90ba511a2/)
 
 <!--
