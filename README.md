@@ -3,7 +3,8 @@
 Good, to see you here! :smile:
 
 - 🔭 I’m working in Data Science and Machine Learning
-- 📫 How to reach me: [linkedIn]([https://www.linkedin.com/in/frauke-albrecht-phd-90ba511a2/](https://www.linkedin.com/in/frauke-albrecht-90ba511a2/))
+- 📣 Find more about Data Science and Machine Learning on [datamapu](datamapu.com)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/frauke-albrecht-90ba511a2/)
 
 <!--
 **froukje/froukje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
